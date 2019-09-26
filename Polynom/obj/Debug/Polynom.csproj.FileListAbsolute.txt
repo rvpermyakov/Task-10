@@ -1,0 +1,14 @@
+C:\Users\XJIE6yIIIEK\source\repos\Polynom\Polynom\bin\Debug\Polynom.exe.config
+C:\Users\XJIE6yIIIEK\source\repos\Polynom\Polynom\bin\Debug\Polynom.exe
+C:\Users\XJIE6yIIIEK\source\repos\Polynom\Polynom\bin\Debug\Polynom.pdb
+C:\Users\XJIE6yIIIEK\source\repos\Polynom\Polynom\obj\Debug\Polynom.csprojAssemblyReference.cache
+C:\Users\XJIE6yIIIEK\source\repos\Polynom\Polynom\obj\Debug\Polynom.csproj.CoreCompileInputs.cache
+C:\Users\XJIE6yIIIEK\source\repos\Polynom\Polynom\obj\Debug\Polynom.exe
+C:\Users\XJIE6yIIIEK\source\repos\Polynom\Polynom\obj\Debug\Polynom.pdb
+C:\Users\permy\Desktop\Задания2\Polynom(10)\Polynom\bin\Debug\Polynom.exe.config
+C:\Users\permy\Desktop\Задания2\Polynom(10)\Polynom\bin\Debug\Polynom.exe
+C:\Users\permy\Desktop\Задания2\Polynom(10)\Polynom\bin\Debug\Polynom.pdb
+C:\Users\permy\Desktop\Задания2\Polynom(10)\Polynom\obj\Debug\Polynom.csprojAssemblyReference.cache
+C:\Users\permy\Desktop\Задания2\Polynom(10)\Polynom\obj\Debug\Polynom.csproj.CoreCompileInputs.cache
+C:\Users\permy\Desktop\Задания2\Polynom(10)\Polynom\obj\Debug\Polynom.exe
+C:\Users\permy\Desktop\Задания2\Polynom(10)\Polynom\obj\Debug\Polynom.pdb
